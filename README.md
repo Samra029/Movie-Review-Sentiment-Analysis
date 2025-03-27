@@ -4,7 +4,7 @@ A sentiment analysis model that classifies IMDB movie reviews as positive or neg
 
 ## **Overview**
 This project builds a sentiment analysis model to classify IMDB movie reviews as **positive** or **negative** using machine learning techniques.
-## ** Dataset** ##
+## **Dataset** ##
  https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 ## **Features**
 - **Preprocessing:** Lowercasing, punctuation & stopword removal, tokenization.
